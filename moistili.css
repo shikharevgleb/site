@@ -1,0 +1,379 @@
+.topmain2{
+	margin-top: 100px:
+}
+.topmain{
+	margin-top: 100px;
+}
+.topmainzag{
+	margin-top: 60px;
+}
+.topmainPY{
+	position: relative;
+	top: 290px;
+	left:100px;
+}
+.topmainPY2{
+	position: relative;
+	top: 20px;
+	left: 720px;
+}
+.topmainPY3{
+	position: relative;
+	top: -170px;
+	left: 1380px;
+}
+body{
+	background-image: url(BackBlue.png);
+	
+}
+.container{
+	width:100%;
+	height:100vh;
+	dispaly: flex;
+	justify-content: center;
+	align-items: center;
+}
+.btn{
+	position:absolute;
+	bottom:350px;
+	right:1150px;
+	color:white;
+	font-weight:bold;
+	text-transform:uppercase;
+	font-size:22px;
+	border:none;
+	padding:20px 60px;
+	background: Blue;
+	cursor:pointer;
+	outline:none;
+	width: 350px;
+	height: 150px;
+}
+
+.btn2{
+	position:absolute;
+	bottom:350px;
+	right:350px;
+	color:white;
+	font-weight:bold;
+	text-transform:uppercase;
+	font-size:22px;
+	border:none;
+	padding:20px 60px;
+	background: Blue;
+	cursor:pointer;
+	outline:none;
+	width: 350px;
+	height: 150px;
+}
+.png1{
+	position:absolute;
+	bottom:100px;
+	right:1120px;
+	width:400px;
+	height:200px;
+}
+.png2{
+	position:absolute;
+	bottom:105px;
+	right:330px;
+	width:400px;
+	height:200px;
+}
+.png1L{
+	position:relative;
+	bottom:-5px;
+	right:-760px;
+	width:300px;
+	height:80px;
+}
+.png2L{
+	position:relative;
+	bottom:-5px;
+	right:-840px;
+	
+}
+.png3L{
+	position:relative;
+	bottom:-5px;
+	right:-790px;
+	
+}
+.png4L{
+	position:relative;
+	bottom:-5px;
+	right:-750px;
+}
+.png5L{
+	position:relative;
+	bottom:-5px;
+	right:-630px;
+}
+.png6L{
+	position:relative;
+	bottom:-5px;
+	right:-810px;
+}
+.png7L{
+	position:relative;
+	bottom:-5px;
+	right:-750px;
+}
+.png8L{
+	position:relative;
+	bottom:-5px;
+	right:-610px;
+}
+.png9L{
+	position:relative;
+	bottom:-5px;
+	right:-700px;
+}
+.png1G{
+	position:relative;
+	bottom:-5px;
+	right:-850px;
+}
+.png2G{
+	position:relative;
+	bottom:-5px;
+	right:-850px;
+}
+.png3G{
+	position:relative;
+	bottom:-5px;
+	right:-730px;
+}
+.png4G{
+	position:relative;
+	bottom:-5px;
+	right:-800px;
+}
+.png5G{
+	position:relative;
+	bottom:-5px;
+	right:-770px;
+}
+.png6G{
+	position:relative;
+	bottom:-5px;
+	right:-730px;
+}
+.png1W{
+	position:relative;
+	bottom:-5px;
+	right:-800px;
+}
+.png2W{
+	position:relative;
+	bottom:-5px;
+	right:-800px;
+}
+.png3W{
+	position:relative;
+	bottom:-5px;
+	right:-760px;
+}
+.png4W{
+	position:relative;
+	bottom:-5px;
+	right:-760px;
+}
+.png1C{
+	position:relative;
+	bottom:-5px;
+	right:-730px;
+}
+.png2C{
+	position:relative;
+	bottom:-5px;
+	right:-780px;
+}
+.png3C{
+	position:relative;
+	bottom:-5px;
+	right:-640px;
+}
+.png4C{
+	position:relative;
+	bottom:-5px;
+	right:-890px;
+}
+.png5C{
+	position:relative;
+	bottom:-5px;
+	right:-840px;
+}
+.png6C{
+	position:relative;
+	bottom:-5px;
+	right:-830px;
+}
+.png7C{
+	position:relative;
+	bottom:-5px;
+	right:-840px;
+}
+.png8C{
+	position:relative;
+	bottom:-5px;
+	right:-840px;
+}
+.png9C{
+	position:relative;
+	bottom:-5px;
+	right:-850px;
+}
+.png10C{
+	position:relative;
+	bottom:-5px;
+	right:-810px;
+}
+.png11C{
+	position:relative;
+	bottom:-5px;
+	right:-880px;
+}
+.png12C{
+	position:relative;
+	bottom:-5px;
+	right:-870px;
+}
+.png1Cif{
+	position:relative;
+	bottom:-5px;
+	right:-850px;
+}
+.png2Cif{
+	position:relative;
+	bottom:-5px;
+	right:-850px;
+}
+.png3Cif{
+	position:relative;
+	bottom:-5px;
+	right:-730px;
+}
+.png4Cif{
+	position:relative;
+	bottom:-5px;
+	right:-760px;
+}
+.png5Cif{
+	position:relative;
+	bottom:-5px;
+	right:-760px;
+}
+.png6Cif{
+	position:relative;
+	bottom:-5px;
+	right:-760px;
+}
+.png7Cif{
+	position:relative;
+	bottom:-5px;
+	right:-700px;
+}
+.while1C{
+	position:relative;
+	bottom:-5px;
+	right:-680px;
+}
+.while2C{
+	position:relative;
+	bottom:-5px;
+	right:-760px;
+}
+.while3C{
+	position:relative;
+	bottom:-5px;
+	right:-700px;
+}
+.V1{
+	position:relative;
+	bottom:-5px;
+	right:-850px;
+}
+.V2{
+	position:relative;
+	bottom:-5px;
+	right:-890px;
+}
+.V3{
+	position:relative;
+	bottom:-5px;
+	right:-870px;
+}
+.V4{
+	position:relative;
+	bottom:-5px;
+	right:-890px;
+}
+.btn-1py{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position:absolute;
+	bottom:600px;
+	right:1400px;
+	color:white;
+	font-weight:bold;
+	text-transform:uppercase;
+	font-size:22px;
+	border:none;
+	padding:20px 60px;
+	background: Blue;
+	cursor:pointer;
+	outline:none;
+	width: 210px;
+	height: 110px;
+}
+.btn-2py{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position:absolute;
+	bottom:600px;
+	right:780px;
+	color:white;
+	font-weight:bold;
+	text-transform:uppercase;
+	font-size:22px;
+	border:none;
+	background: Blue;
+	cursor:pointer;
+	outline:none;
+	width: 300px;
+	height: 140px;
+}
+.btn-3py{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position:absolute;
+	bottom:600px;
+	right:100px;
+	color:white;
+	font-weight:bold;
+	text-transform:uppercase;
+	font-size:22px;
+	border:none;
+	background: Blue;
+	cursor:pointer;
+	outline:none;
+	width: 410px;
+	height: 135px;
+}
+.scr1{
+	
+}
+
+	<!--p>
+		<a href="https://www.onlinegdb.com/online_python_compiler" target="_blanck"><button style="    text-align: center;
+		width: 20%;
+		height:20%;
+		color: white;
+		background: purple;
+		padding: 80px;
+		border-radius: 15px;"><Font color="white" size=20 face="Calibri">C++</Font></button></a>
+	</p-->
